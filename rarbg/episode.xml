@@ -1,13 +1,10 @@
-<html>
-<head><title>404 Not Found</title><script async src='/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?ts=1654545600'></script></head>
-<body bgcolor="white">
-<center><h1>404 Not Found</h1></center>
-<hr><center>nginx</center>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'7174a59cbf5c0ccb',m:'ySyyTKhjHZXAjizNWsV_ZpCOEYtNQ_palCXWwoy8ilQ-1654555197-0-AcWzuLH++37jwmh/twRau3W9QrSFb6Wn0J9NXBjxb5sTA2y+bK894uCsDkyAGSDCWTlcB4N93q8b607A+/jamYaIXK7Ga0qVexMUUCweuIamPlfuK5blwHFB4Zd4jDOwKBuQOeELx9TA6vVsY3JBAYXYIIhIDaAPqGFomhikm0A2',s:[0xb11b698f17,0xb3fcbbe08d],u:'/cdn-cgi/challenge-platform/h/g'}})();</script></body>
-</html>
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>RARBG</title>
+<description>RARBG rss feed direct download</description>
+<link>https://rarbg.to</link>
+<lastBuildDate>Tue, 07 Jun 2022 00:51:16 CEST</lastBuildDate>
+<copyright>(c) 2022 RARBG</copyright>
+
+</channel></rss>
