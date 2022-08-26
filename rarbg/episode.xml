@@ -1,10 +1,13 @@
-
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>RARBG</title>
-<description>RARBG rss feed direct download</description>
-<link>https://rarbg.to</link>
-<lastBuildDate>Fri, 26 Aug 2022 08:37:27 CEST</lastBuildDate>
-<copyright>(c) 2022 RARBG</copyright>
-
-</channel></rss>
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){var js = "window['__CF$cv$params']={r:'740abbbce9918238',m:'.XdXcnLzgx.OBaPnm11Fkidqd0ls57DY5ZZk4rxh5is-1661497676-0-AbuVTiU65DM+S8y5DCE6Z3LdhQ/m75hIFCP9F6p4UqYg5blZGr4Ph3CC+4z4mWd22as2qM1E+RAK97BAWQW+Ripckg70rRzJRu93PI4Bownttk+FRY9Kl1VgXfwV4ZmRjuncQbqOhb+ehs5CgzqQaT3SMJYe14HjES4lcHvBezhV',s:[0x66f635084e,0x5fbc5248ba],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
